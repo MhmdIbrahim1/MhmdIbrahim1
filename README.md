@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)](https://rishavchanda.io)
+[![MasterHead] width"400" (https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Android Developer From Egypt</h3>
