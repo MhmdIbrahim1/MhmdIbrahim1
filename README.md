@@ -1,7 +1,7 @@
-[!MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
+[!MasterHead](https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp)
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Android Developer From Egypt</h3>
-<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width"200" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdi&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdi" /> </p>
